@@ -1,0 +1,30 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package projet.pkg1;
+
+/**
+ *
+ * @author user
+ */
+public class Projet1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        int nbre1, nbre2, nbre3;//déclaration des variables</couleur>
+nbre1 = nbre2 = nbre3 = 0;//initialisation</couleur>
+nbre1 = 1 + 3; // ici nbre1 vaut 4
+nbre2 = 2 * 6; // ici nbre2 vaut 12
+nbre3 = nbre2 / nbre1; //ici nbre3 vaut 3
+nbre1 = 5 % 2; //ici nbre1 vaut 1 car 5 = 2 * 2 + 1
+nbre2 = 99 % 8; //ici nbre2 vaut 3 car 99 = 8 * 12 + 3
+nbre3 = 6 % 3; //là, nbre3 vaut 0 car la division n'a aucun reste\n");
+    
+    
+}
+}
